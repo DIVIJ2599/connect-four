@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Divij2599 Github](https://github.com/divij2599/connect-four-game)
+- Solution URL: [Netlify](https://fantastic-speculoos-0008ff.netlify.app/)
 
 ### Built with
 
