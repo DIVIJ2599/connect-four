@@ -40,6 +40,13 @@ Users should be able to:
 - ReactJS 
 - [GSAP](https://greensock.com/gsap/) - GSAP Animation Library
 
+## Contributions 
+
+We welcome contributions to add new functionality. One such functionality is to allow the user to play against the computer, which will make the game more engaging and challenging.
+
+We encourage you to add comments in the code to help other developers understand your implementation. In addition, you can improve the existing codebase to make it more efficient and optimized.
+
+
 ## Author
 
 - GitHub - [Divij2599](https://github.com/divij2599/)
